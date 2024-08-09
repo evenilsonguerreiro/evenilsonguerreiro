@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá sou o Evenilson 👋
+###### Quem sou eu.
+Sempre fui cativado pelo o universo da tecnologia e minha transição da área de trabalho de design gráfico para a programação me deixa empolgado,
+e muito feliz.
 
-<!--
-**evenilsonguerreiro/evenilsonguerreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Também apaixonado por layout, porem estáticos que o design gráfico costuma fazer.
 
-Here are some ideas to get you started:
+Sempre queria algo mais, foi ai que descobri a programação e procurei a cursar na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoje procuro novos desafios na área de desenvolvedor. Atualmente, curso desenvolvimento front-end na EBAC.
+
+● Habilidades na execução de projetos de desenvolvimento web utilizando HTML, CSS e Javascript React
+● Conhecimentos em Bootstrap, Jquery, Git e Github; 
+● Noções de SASS e Gulp , LESS. Cypress.
+
+
