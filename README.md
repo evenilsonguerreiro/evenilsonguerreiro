@@ -13,4 +13,5 @@ Hoje procuro novos desafios na área de desenvolvedor. Atualmente, curso desenvo
 ● Conhecimentos em Bootstrap, Jquery, Git e Github; 
 ● Noções de SASS e Gulp , LESS. Cypress.
 
-
+## detalhes 
+https://github-readme-stats.vercel.app/api?username=evenilsonguerreiro-github
