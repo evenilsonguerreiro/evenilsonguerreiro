@@ -26,5 +26,7 @@ Hoje procuro novos desafios na área de desenvolvedor. Atualmente, curso desenvo
 ### Linguagens ultilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evenilsonguerreiro)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contato
-![evenilsonguerreiro](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)
+## Tecnologias que eu uso
+<div style="display:inline_block"><br>
+  <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
