@@ -21,3 +21,6 @@ Hoje procuro novos desafios na área de desenvolvedor. Atualmente, curso desenvo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evenilsonguerreiro&repo=cardapio-burger)](https://github.com/YOUR_USERNAME/REPO_NAME)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evenilsonguerreiro&repo=lista-de-contatos )](https://github.com/YOUR_USERNAME/REPO_NAME)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evenilsonguerreiro&repo=pro-list )](https://github.com/YOUR_USERNAME/REPO_NAME)
+
+### Linguagens ultilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evenilsonguerreiro)](https://github.com/anuraghazra/github-readme-stats)
