@@ -15,3 +15,6 @@ Hoje procuro novos desafios na área de desenvolvedor. Atualmente, curso desenvo
 
 ## detalhes 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evenilsonguerreiro&show_icons=true&theme=radical)
+
+### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evenilsonguerreiro&repo=REPO_NAME)](https://github.com/YOUR_USERNAME/REPO_NAME)
