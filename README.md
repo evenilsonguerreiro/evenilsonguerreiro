@@ -34,5 +34,5 @@ Hoje procuro novos desafios na área de desenvolvedor. Atualmente, curso desenvo
  ##Contatos
 
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=https://www.linkedin.com/in/evenilson-da-silva-almeida/&logoColor=white"(https://www.linkedin.com/in/evenilson-da-silva-almeida/) />
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
