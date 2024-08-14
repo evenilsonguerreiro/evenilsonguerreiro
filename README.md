@@ -1,8 +1,11 @@
 
 <div>
-  <marquee>
-     ## Olá sou o Evenilson 👋 
-  </marquee>
+ 
+   <marquee behavior="" direction="left" bgcolor="purple" scrollamount="20">
+            <h1 class="title">
+                Olá, Eu sou o Evenilson
+            </h1>
+        </marquee>
 </div>
 ###### Quem sou eu.
 Sempre fui cativado pelo o universo da tecnologia 
