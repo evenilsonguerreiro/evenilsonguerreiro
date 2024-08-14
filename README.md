@@ -1,12 +1,12 @@
 
-<div>
+<header>
  
-   <marquee behavior="" direction="left" bgcolor="purple" scrollamount="20">
+   <marquee behavior="" direction="left" scrollamount="20">
             <h1 class="title">
                 Olá, Eu sou o Evenilson
             </h1>
-        </marquee>
-</div>
+   </marquee>
+</header>
 ###### Quem sou eu.
 Sempre fui cativado pelo o universo da tecnologia 
 Hoje procuro novos desafios na área de desenvolvedor. Atualmente, curso desenvolvimento front-end na EBAC.
