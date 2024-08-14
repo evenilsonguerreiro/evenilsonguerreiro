@@ -1,6 +1,9 @@
-<marquee>
-  ## Olá sou o Evenilson 👋
-<marquee/>  
+
+<div>
+  <marquee>
+     ## Olá sou o Evenilson 👋 
+  </marquee>
+</div>
 ###### Quem sou eu.
 Sempre fui cativado pelo o universo da tecnologia 
 Hoje procuro novos desafios na área de desenvolvedor. Atualmente, curso desenvolvimento front-end na EBAC.
